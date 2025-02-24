@@ -4,3 +4,5 @@ folium
 streamlit_folium
 numpy
 matplotlib
+scipy
+geopandas
