@@ -1,4 +1,2 @@
 libgl1-mesa-glx
-folium
-streamlit_folium
 libglib2.0-0
